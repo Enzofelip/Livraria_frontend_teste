@@ -1,0 +1,29 @@
+*{
+  padding:0;
+  margin:0;
+  box-sizing: border-box;
+  font-family: Poppins;
+}
+
+h1{
+  text-align: center;
+  color: #1146a6;
+}
+
+h2{
+  margin-bottom: 10px;
+  color: #D9534f;
+}
+
+p{
+  margin: 10px 0;
+  color: #333;
+}
+
+span{
+  color: #555;
+}
+
+input{
+  box-sizing: border-box;
+}
